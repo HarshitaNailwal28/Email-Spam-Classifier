@@ -3,4 +3,4 @@ nltk
 sklearn
 gunicorn==19.7.1
 scikit-learn
-scipy
+scipy ==1.7.3
