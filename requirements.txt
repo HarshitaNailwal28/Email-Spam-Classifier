@@ -1,5 +1,6 @@
-streamlit
-nltk
+nltk==3.8
+streamlit==1.21.0
+stopwords
 sklearn
 gunicorn==19.7.1
 scikit-learn
