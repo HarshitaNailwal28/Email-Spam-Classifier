@@ -2,3 +2,4 @@ streamlit
 nltk
 sklearn
 gunicorn==19.7.1
+scikit-learn
